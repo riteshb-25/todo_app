@@ -1,6 +1,7 @@
 # todoapp
 
 My first Flutter application.
+
 Screenshot of the app is in screenshot.jpeg
 
 
