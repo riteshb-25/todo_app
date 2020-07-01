@@ -1,6 +1,8 @@
 # todoapp
 
-A new Flutter application.
+My first Flutter application.
+Screenshot of the app is in screenshot.jpeg
+
 
 ## Getting Started
 
